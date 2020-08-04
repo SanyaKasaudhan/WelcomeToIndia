@@ -78,15 +78,21 @@ section a{
     font-weight: 500;
     text-decoration: none;
     letter-spacing: 1px;
+    transition: all .5s ease;
 }
 section .btnone{
     background: #fff;
     color: #000;
 }
 .btnone:hover{
-    
+    background: #00b894;
+    color: white;
 }
 section .btntwo{
+    background: #fff;
+    color: #000;
+}
+.btntwo:hover{
     background: #00b894;
     color: white;
 }
